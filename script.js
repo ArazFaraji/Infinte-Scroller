@@ -1,6 +1,3 @@
-// import { ApiKey } from './Unsplash-Api-Keys'
-
-// require('dotenv').config('.env')
 const imageContainer = document.getElementById('image-container');
 const loader = document.getElementById('loader');
 
